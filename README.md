@@ -1,5 +1,5 @@
 # Introduction
-Restful application created from Spring boot below selected options:
+Restful api created from Spring boot below selected options:
 * Project: Gradle, 
 * Spring Boot template: 2.7.0, 
 * Packaging: Jar, 
